@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "8e319cc326da1923",
+    "type": "split",
+    "children": [
+      {
+        "id": "438e3383f488d4d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1c8de1327757b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resources"
+            }
+          },
+          {
+            "id": "4acc9a8b737c063a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/Android security architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Android security architecture"
+            }
+          },
+          {
+            "id": "0659450bcfa0c321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/Anatomy of an Android app.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anatomy of an Android app"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faeba88248f4506f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f976f2cbef686f3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f436f998e365ef3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e56cdc8fbc740078",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f07245850a2ef529",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a01c3009a3dbaf21",
+    "type": "split",
+    "children": [
+      {
+        "id": "e64556a6d5a1c717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c04117758eff643",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Android/Android security architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Android security architecture"
+            }
+          },
+          {
+            "id": "be87bfa2227bb5eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Android/Android security architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Android security architecture"
+            }
+          },
+          {
+            "id": "7f463c77aa2eaca9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9c975cb408e52818",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Android/Android security architecture.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Android security architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0659450bcfa0c321",
+  "lastOpenFiles": [
+    "Resources.md",
+    "Android/MobSF.md",
+    "Android/Injured_Android/Flag 09.md",
+    "Android/Injured_Android/Flag 10.md",
+    "Android/Injured_Android/Flag 08.md",
+    "Android/Injured_Android/Flag 07.md",
+    "Android/Anatomy of an Android app.md",
+    "Android/Injured_Android/Injured Android.md",
+    "PT methodology.md",
+    "Android/Hardcoded strings.md",
+    "Android/apktool.md",
+    "Android/Android security architecture.md",
+    "Android/Android debugger (ADB).md",
+    "Android/Injured_Android/Flag 01.md",
+    "Android/Injured_Android/Flag 06.md",
+    "Android/Injured_Android/Flag 05.md",
+    "Android/Injured_Android/Flag 04.md",
+    "Android/Injured_Android/Flag 03.md",
+    "Android/Injured_Android/Flag 02.md",
+    "Android/Android manifest.md",
+    "Android/Injured_Android",
+    "platform-tools-latest-windows.zip",
+    "jadx-gui-1.5.2-win.zip",
+    "Android/attachments/Pasted image 20250630164845.png",
+    "Android/attachments",
+    "Pasted image 20250628183834.png",
+    "Pasted image 20250628182515.png",
+    "Pasted image 20250628174717.png",
+    "Android-architecture.png",
+    "Android",
+    "Welcome.md"
+  ]
+}

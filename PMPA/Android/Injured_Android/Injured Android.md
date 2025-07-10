@@ -1,0 +1,2 @@
+
+Injured Android is a bug bounty APK, purposefully designed to contain security flaws that can be exploited to retrieve a flag and submit it. All flags cover a different vulnerability category, and can either be obtained through static or dynamic analysis.
