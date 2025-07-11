@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Anatomy of an Android app.md",
+                "file": "Android/Objection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anatomy of an Android app"
+              "title": "Objection"
             }
           }
         ],
@@ -199,25 +199,29 @@
   },
   "active": "0659450bcfa0c321",
   "lastOpenFiles": [
-    "Resources.md",
-    "Android/MobSF.md",
-    "Android/Injured_Android/Flag 09.md",
+    "Android/Injured_Android/Flag 17 (SSL pinning bypass).md",
+    "Android/Anatomy of an Android app.md",
+    "Android/Android security architecture.md",
+    "Android/Injured_Android/Flag 14.md",
+    "Android/Injured_Android/Flag 11.md",
     "Android/Injured_Android/Flag 10.md",
     "Android/Injured_Android/Flag 08.md",
     "Android/Injured_Android/Flag 07.md",
-    "Android/Anatomy of an Android app.md",
+    "Android/Injured_Android/Flag 09.md",
+    "Android/Injured_Android/Flag 02.md",
+    "Android/Injured_Android/Flag 01.md",
+    "Android/Objection.md",
+    "Resources.md",
+    "Android/MobSF.md",
     "Android/Injured_Android/Injured Android.md",
     "PT methodology.md",
     "Android/Hardcoded strings.md",
     "Android/apktool.md",
-    "Android/Android security architecture.md",
     "Android/Android debugger (ADB).md",
-    "Android/Injured_Android/Flag 01.md",
     "Android/Injured_Android/Flag 06.md",
     "Android/Injured_Android/Flag 05.md",
     "Android/Injured_Android/Flag 04.md",
     "Android/Injured_Android/Flag 03.md",
-    "Android/Injured_Android/Flag 02.md",
     "Android/Android manifest.md",
     "Android/Injured_Android",
     "platform-tools-latest-windows.zip",

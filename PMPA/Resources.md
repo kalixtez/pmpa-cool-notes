@@ -13,3 +13,5 @@ Android RE: https://github.com/user1342/Awesome-Android-Reverse-Engineering
 ADB: https://developer.android.com/tools/adb
 
 MobSF: https://github.com/MobSF/Mobile-Security-Framework-MobSF
+
+Patching Frida into an app manually: https://koz.io/using-frida-on-android-without-root/

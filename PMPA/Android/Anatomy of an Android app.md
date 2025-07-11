@@ -32,3 +32,12 @@ Depending on whether they declare a specific target to handle the request, Inten
     ...
 </intent-filter>
 ```
+
+### Parcelable objects
+
+Objects can be passed as `Extras` through an `Intent`, from an activity to another, if:
+
+1. The object's class is in both classpaths of each app.
+2. The object implements the `Parcelable` interface.
+
+`Intent` objects themselves are parcelable, which means an Intent object can be passed as the `Extra` of another Intent. This is how flag 12 puzzle is solved.
