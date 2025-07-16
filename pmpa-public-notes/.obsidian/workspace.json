@@ -39,14 +39,12 @@
             "id": "0659450bcfa0c321",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Android/Objection.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250628183834.png"
               },
-              "icon": "lucide-file",
-              "title": "Objection"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250628183834"
             }
           }
         ],
@@ -199,8 +197,18 @@
   },
   "active": "0659450bcfa0c321",
   "lastOpenFiles": [
-    "Android/Injured_Android/Flag 17 (SSL pinning bypass).md",
+    "Pasted image 20250628182515.png",
+    "Pasted image 20250628174717.png",
+    "Android-architecture.png",
+    "Android/attachments/Pasted image 20250630164845.png",
+    "PT methodology.md",
+    "Pasted image 20250628183834.png",
+    "Android/Dynamic analysis.md",
+    "Android/Objection.md",
+    "Android/Hardcoded strings.md",
     "Android/Anatomy of an Android app.md",
+    "Android/apktool.md",
+    "Android/Injured_Android/Flag 17 (SSL pinning bypass).md",
     "Android/Android security architecture.md",
     "Android/Injured_Android/Flag 14.md",
     "Android/Injured_Android/Flag 11.md",
@@ -210,13 +218,9 @@
     "Android/Injured_Android/Flag 09.md",
     "Android/Injured_Android/Flag 02.md",
     "Android/Injured_Android/Flag 01.md",
-    "Android/Objection.md",
     "Resources.md",
     "Android/MobSF.md",
     "Android/Injured_Android/Injured Android.md",
-    "PT methodology.md",
-    "Android/Hardcoded strings.md",
-    "Android/apktool.md",
     "Android/Android debugger (ADB).md",
     "Android/Injured_Android/Flag 06.md",
     "Android/Injured_Android/Flag 05.md",
@@ -226,13 +230,7 @@
     "Android/Injured_Android",
     "platform-tools-latest-windows.zip",
     "jadx-gui-1.5.2-win.zip",
-    "Android/attachments/Pasted image 20250630164845.png",
     "Android/attachments",
-    "Pasted image 20250628183834.png",
-    "Pasted image 20250628182515.png",
-    "Pasted image 20250628174717.png",
-    "Android-architecture.png",
-    "Android",
-    "Welcome.md"
+    "Android"
   ]
 }

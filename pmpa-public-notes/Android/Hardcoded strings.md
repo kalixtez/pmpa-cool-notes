@@ -1,4 +1,3 @@
-
 What to look for?
 * Hardcoded API keys
 * Hardcoded credentials (for bypassing)
