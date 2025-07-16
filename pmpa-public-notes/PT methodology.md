@@ -1,4 +1,4 @@
-![[Pasted image 20250628174717.png]]
+![](Pasted%20image%2020250628174717.png)
 
 ## Reconnaissance
 
@@ -35,13 +35,13 @@ Going to the target app store page and reading relevant information.
 Enumerate things like patches, patch notes, other apps developed by the same team, etc.
 
 Uber example:
-![[Pasted image 20250628182515.png]]
+![](Pasted%20image%2020250628182515.png)
 
 ## Static analysis
 
 Decompiling and trying to make sense out of all of that mess, trying to find vulnerabilities embedded that are noticeable in written form.
 
-![[Pasted image 20250628183834.png]]
+![](Pasted%20image%2020250628183834.png)
 ## Dynamic analysis
 
 Running the app and attaching an external debugger, trying to make something out of the execution flow, trying to find vulnerabilities that might be easier to spot when on runtime.
