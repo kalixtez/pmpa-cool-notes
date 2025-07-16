@@ -8,7 +8,7 @@ Sometimes referred to as "Dalvik runtime" (legacy name, as this was the mechanis
 
 ## Android system architecture
 
-![/../Android-architecture.png]()
+![[../Android-architecture.png]]
 
 ## HAL
 

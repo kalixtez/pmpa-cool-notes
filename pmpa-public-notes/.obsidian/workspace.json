@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Android security architecture"
             }
-          },
-          {
-            "id": "0659450bcfa0c321",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250628183834.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250628183834"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,21 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0659450bcfa0c321",
+  "active": "4acc9a8b737c063a",
   "lastOpenFiles": [
+    "().md",
+    "Android/Android security architecture.md",
+    "Android-architecture.png",
+    "Pasted image 20250628183834.png",
     "Pasted image 20250628182515.png",
     "Pasted image 20250628174717.png",
-    "Android-architecture.png",
     "Android/attachments/Pasted image 20250630164845.png",
     "PT methodology.md",
-    "Pasted image 20250628183834.png",
     "Android/Dynamic analysis.md",
     "Android/Objection.md",
     "Android/Hardcoded strings.md",
     "Android/Anatomy of an Android app.md",
     "Android/apktool.md",
     "Android/Injured_Android/Flag 17 (SSL pinning bypass).md",
-    "Android/Android security architecture.md",
     "Android/Injured_Android/Flag 14.md",
     "Android/Injured_Android/Flag 11.md",
     "Android/Injured_Android/Flag 10.md",
