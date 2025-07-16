@@ -8,7 +8,7 @@ Sometimes referred to as "Dalvik runtime" (legacy name, as this was the mechanis
 
 ## Android system architecture
 
-![[../Android-architecture.png]]
+![](../Android-architecture.png)
 
 ## HAL
 
@@ -20,7 +20,7 @@ It is used to develop GUI applications. It also allows  for app to expose `Conte
 
 ## Compilation process of an Android app
 
-![[Pasted image 20250630164845.png]]
+![](attachments/Pasted%20image%2020250630164845.png)
 
 ## Signing
 
